@@ -14,20 +14,20 @@
 </div>
 
 ---
-## ℹ️ Sobre este repositório
-Calculadora App no estilo calculadora do MacOS.
+## ℹ️ About this repository
+Calculator App in the MacOS calculator style.
 
-O objetivo principal deste repositório é demonstrar o aplicativo desenvolvido para treinar meus conhecimentos durante o curso de Flutter da empresa [COD3R](https://www.udemy.com/course/curso-flutter/).
-
----
-## ⚙️ Funcionalidades
-Este app tem as seguintes funcionalidades:
-
-- Realizar operações básicas (+, -, *, /, %).
-- Interface semelhante a calculadora do MacOS.
+This repository's main objective is to demonstrate the application developed to train my knowledge during the Flutter course from the company [COD3R](https://www.udemy.com/course/curso-flutter/).
 
 ---
-## 👁️ Pré-visualização
+## ⚙️ Features
+This application has the following features:
+
+- Perform basic operations (+, -, *, /, %).
+- Interface similar to the MacOS calculator.
+
+---
+## 👁️ Preview
 
 <h1 align="center">
 <img src='.github/1.gif' width="40%">
@@ -41,18 +41,17 @@ Este projeto foi desenvolvido usando as seguintes tecnologias:
 - [Dart 3.2.6](https://dart.dev/)
 
 ---
-## ⚡ Instalação
+## ⚡ Technologies
 
-Primeiramente clone este projeto usando:
+This project was developed using the following technologies:
 
 ```bash
   git clone https://github.com/GoedertDalmolin/calculator.git
   cd calculator
 ```
 
-Por fim compile e execute o projeto.
+Finally compile and run the project.
 
 ---
-</> Desenvolvido por [GoedertDalmolin](https://github.com/GoedertDalmolin) 👋
-------
+</> Developed by [GoedertDalmolin](https://github.com/GoedertDalmolin) 👋
 ---
