@@ -34,16 +34,16 @@ This application has the following features:
 </h1>
 
 ---
-## 🧪 Tecnologias
-Este projeto foi desenvolvido usando as seguintes tecnologias:
+## 🧪 Technologies
+This project was developed using the following technologies:
 
 - [Flutter 3.16.9](https://docs.flutter.dev/)
 - [Dart 3.2.6](https://dart.dev/)
 
 ---
-## ⚡ Technologies
+## ⚡ Installing
 
-This project was developed using the following technologies:
+Clone this project using
 
 ```bash
   git clone https://github.com/GoedertDalmolin/calculator.git
